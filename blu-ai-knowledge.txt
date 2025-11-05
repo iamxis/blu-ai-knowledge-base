@@ -1,4 +1,4 @@
-I AM XIS KNOWLEDGE BASE V2.1 (OPTIMIZED)
+I AM XIS KNOWLEDGE BASE V2.3 (FINALIZED)
 
 I. FULFILLMENT AND DELIVERY PROCESS
 - International Shipping: We do not offer delivery outside of Nigeria.
@@ -10,17 +10,20 @@ I. FULFILLMENT AND DELIVERY PROCESS
 - Order Tracking Link: http://iamxis.com.ng/track (or use the link provided in your order confirmation email).
 - Missing Orders: If your package is still missing after checking your tracking link, contact our support team for courier follow-up.
 - Preferred Delivery: You can also request a preferred delivery window by contacting us directly.
+- **SHIPPING DETAILS PAGE:** https://iamxis.com.ng/shipping/
 
 II. PRICING, PAYMENT, AND ORDERING PROCESS DETAILS
 - Currency: All prices listed on our website are in Nigerian Naira (₦).
 - Payment Method: We currently accept payment exclusively through bank transfers. Payment details are shared with you after your order has been confirmed via email.
 - Order Acceptance: Receiving an order confirmation email means we have received your order and are preparing to process it, but it does not yet constitute order acceptance.
+- **BUNDLES & SAVINGS PAGE:** https://iamxis.com.ng/shop/bundle-save/
 
 III. DETAILED TERMS, RETURNS, AND LIABILITY
 - Return Form URL (Damaged/Incomplete): https://iamxis.com.ng/returns/ (Must complete the form and provide a brief note and a photo of the damaged item).
 - Refunds: Refunds are processed only after the returned damaged item has been received and checked by our team.
 - Exchange Cost: If an exchange requires a second delivery, the customer is responsible for covering the additional delivery cost.
 - Legal: These terms of purchase are governed exclusively by Nigerian law, and disputes are handled by Nigerian courts.
+- **FULL LEGAL TERMS PAGE:** https://iamxis.com.ng/legal
 
 IV. PERSONALIZATION AND DESIGN FILE REQUIREMENTS
 - Accepted File Formats: High-resolution files in PNG, JPG, JPEG, SVG, or PDF format.
@@ -33,6 +36,7 @@ IV. PERSONALIZATION AND DESIGN FILE REQUIREMENTS
 - Placement: You can request specific design placement (front, center, corner) by adding a note during checkout or uploading a reference image. Clear file naming (e.g., "front tote image.png") is essential.
 - Change Window: Once an order is placed and the design file is confirmed, changes cannot be made after a strict **6-HOUR WINDOW**.
 - Color Guarantee: We cannot guarantee exact color matches due to variations in monitor settings and material absorption rates.
+- **DESIGN UPLOAD GUIDE:** https://iamxis.com.ng/design-upload-guide/
 
 V. PRODUCT CARE AND DURABILITY
 - Tees Care (100% breathable cotton): Wash inside out in cold water and hang dry. Avoid using bleach and do not iron directly over the custom print.
@@ -45,6 +49,13 @@ VI. DETAILED SIZING INFORMATION
 - Totes Size: All totes come in our Classic size, measuring 16.5\" by 15\".
 - Mugs Sizes: 11oz Mug: 3.8\" Height x 3.2\" Diameter / 15oz Mug: 4.7\" Height x 3.3\" Diameter.
 
-// VII. (MERGED INTO SECTION I)
-
-// VIII. (MOVED TO CORE KNOWLEDGE RULES)
+VII. GENERAL BRAND AND RESOURCE PAGES
+- **ACCOUNT & LOGIN PAGE:** https://iamxis.com.ng/account/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more. Icon is at the top right corner.)
+- **VIEW CART PAGE:** https://iamxis.com.ng/cart/ (Icon is at the top right corner.)
+- **SEARCH FUNCTION:** The search icon is located at the top right corner of the website.
+- **ABOUT US PAGE:** https://iamxis.com.ng/about/
+- **CUSTOMER REVIEWS PAGE:** https://iamxis.com.ng/reviews/
+- **SUSTAINABILITY PAGE:** https://iamxis.com.ng/sustainability
+- **GENERAL FAQS PAGE:** https://iamxis.com.ng/faqs/
+- **PRE-DESIGNED EDITS / COLLECTION:** https://iamxis.com.ng/collections/pre-designed/
+- **COMING SOON PAGE:** https://iamxis.com.ng/coming-soon/
