@@ -1,7 +1,8 @@
-I AM XIS KNOWLEDGE BASE V3.0 (PURE TEXT)
+I AM XIS KNOWLEDGE BASE V2.1 (PURE TEXT)
 
 I. DETAILED SHIPPING AND ORDER FULFILLMENT
-- Fulfillment Time: Nigerian orders are fulfilled within 3 to 5 business days, as all items are made-to-order.
+- Fulfillment Time: Nigerian orders are fulfilled within 3 to 5 business days.
+All items are made-to-order.
 - International Shipping: We currently do not offer international shipping or delivery outside of Nigeria.
 - Courier Arrangement: Once ready, we contact you to confirm your preferred courier or local pickup arrangement within Nigeria.
 - Delivery Payment: Delivery costs are separate from the item price and are communicated once your order is ready; you pay the courier directly.
@@ -12,15 +13,12 @@ II. PRICING, PAYMENT, AND ORDERING PROCESS DETAILS
 - Currency: All prices listed on our website are in Nigerian Naira (₦).
 - Payment Method: We currently accept payment exclusively through bank transfers. Payment details are shared with you after your order has been confirmed via email.
 - Order Acceptance: Receiving an order confirmation email means we have received your order and are preparing to process it, but it does not yet constitute order acceptance.
-- Shipping Inquiries Contact:
-  - Contact Form
-  - WhatsApp, Call, SMS: +234 708 005 4074
-  - Email: hello@iamxis.com.ng
 
 III. DETAILED TERMS, RETURNS, AND LIABILITY
-- Final Sale Policy: All sales of non-damaged products are final and non-refundable; returns are only accepted if the product arrives damaged.
+- Final Sale Policy: All sales of non-damaged products are final and non-refundable.
+Returns are only accepted if the product arrives damaged.
 - Return Exceptions: We cannot accept returns for buyer's remorse or sizing issues due to the custom, made-to-order nature of our items.
-- Damaged Item Contact Window: If the product is damaged upon arrival, you must reach out to us within 7 days of delivery.
+- Damaged Item Contact Window: If the product is damaged upon arrival, you must reach out to us within **7 days** of delivery.
 - Return Form URL: Customers may be asked to fill out a return form at https://iamxis.com.ng/return-form/
 - Refunds: Refunds are processed only after the returned damaged item has been received and checked by our team.
 - Exchange Cost: If an exchange requires a second delivery, the customer is responsible for covering the additional delivery cost.
@@ -35,9 +33,8 @@ IV. PERSONALIZATION AND DESIGN FILE REQUIREMENTS
 - Totes Print Size: A4 Mid (8" x 11").
 - File Limits: You can upload at least three files per order, with each file under 10MB.
 - Placement: You can request specific design placement (front, center, corner) by adding a note during checkout or uploading a reference image. Clear file naming (e.g., "front tote image.png") is essential.
-- Change Window: Once an order is placed and the design file is confirmed, changes cannot be made after a strict 6-hour window.
+- Change Window: Once an order is placed and the design file is confirmed, changes cannot be made after a strict **6-hour window**.
 - Color Guarantee: We cannot guarantee exact color matches due to variations in monitor settings and material absorption rates.
-- Design Assistance Contact: Contact Form, WhatsApp, Call, SMS at +234 708 005 4074, or Email at hello@iamxis.com.ng.
 
 V. PRODUCT CARE AND DURABILITY
 - Tees Care (100% breathable cotton): Wash inside out in cold water and hang dry. Avoid using bleach and do not iron directly over the custom print.
@@ -55,15 +52,14 @@ VI. DETAILED SIZING INFORMATION
   - 2XL: Chest 25.6", Length 31.5", Shoulder 24.4", Sleeve 10.2"
   - 3XL: Chest 28.0", Length 32.7", Shoulder 25.2", Sleeve 10.6"
 - Totes Size: All totes come in our Classic size, measuring 16.5" by 15".
-
 - Mugs Sizes:
   - 11oz Mug Dimensions: 3.8" Height x 3.2" Diameter.
   - 15oz Mug Dimensions: 4.7" Height x 3.3" Diameter.
 
 VII. ORDER MODIFICATIONS, RETURNS, AND DELIVERY POLICIES
-- Shipping Address Change: You can change your shipping address by reaching out to us within 12 hours of placing your order. Changes may affect final delivery time or fees.
+- Shipping Address Change: You can change your shipping address by reaching out to us within **12 hours** of placing your order. Changes may affect final delivery time or fees.
 - Dispatch Location: All orders are dispatched from Lagos, Nigeria.
-- Damaged/Incomplete Notification: Must notify us within the 7-day window of delivery.
+- Damaged/Incomplete Notification: Must notify us within the **7-day window** of delivery.
 - Return Form URL (Damaged/Incomplete): https://iamxis.com.ng/returns/ (Must complete the form and provide a brief note and a photo of the damaged item).
 - Order Tracking Link: http://iamxis.com.ng/track (or use the link provided in your order confirmation email).
 - Missing Orders: If your package is still missing after checking your tracking link, contact our support team for courier follow-up.
