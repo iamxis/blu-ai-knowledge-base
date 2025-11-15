@@ -45,7 +45,7 @@ VI. DETAILED SIZING INFORMATION
 
 VII. GENERAL BRAND AND RESOURCE PAGES
 - **ACCOUNT & LOGIN PAGE:** https://iamxis.com.ng/login/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more. Icon is at the top right corner.)
-- **CREATING AN XIS ACCOUNT:** https://iamxis.com.ng/login/
+- **CREATING AN XIS ACCOUNT:** https://iamxis.com.ng/register/
 - **SEARCH FUNCTION:** The search bar or search icon is located at the top right corner of the website.
 - **VIEW CART PAGE:** https://iamxis.com.ng/cart/ (Icon is at the top right corner.)
 - **ABOUT US PAGE:** https://iamxis.com.ng/about/
