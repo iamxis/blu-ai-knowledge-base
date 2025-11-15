@@ -44,8 +44,9 @@ VI. DETAILED SIZING INFORMATION
 - Mugs Sizes: 11oz Mug: 3.8\" Height x 3.2\" Diameter / 15oz Mug: 4.7\" Height x 3.3\" Diameter.
 
 VII. GENERAL BRAND AND RESOURCE PAGES
-- **ACCOUNT & LOGIN PAGE:** https://iamxis.com.ng/login/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more. You can login or view your account via the icon at the top right corner.)
+- **ACCOUNT & LOGIN PAGE:** https://iamxis.com.ng/login/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more.)
 - **CREATING AN XIS ACCOUNT:** https://iamxis.com.ng/register/
+-**LOGIN or PROFILE ICON:** The profile icon is at the top right corner of our site header.
 - **SEARCH FUNCTION:** The search bar or search icon is located at the top right corner of the website.
 - **VIEW CART PAGE:** https://iamxis.com.ng/cart/ (Icon is at the top right corner.)
 - **ABOUT US PAGE:** https://iamxis.com.ng/about/
