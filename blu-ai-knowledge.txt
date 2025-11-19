@@ -7,16 +7,16 @@ I. FULFILLMENT AND DELIVERY PROCESS
 - Lagos Pickup: A local pickup option is available in Lagos at no extra cost; details are shared once the order is ready.
 - Shipping Address Change: You can change your shipping address by reaching out to us within 12 HOURS of placing your order. Changes may affect final delivery time or fees.
 - Dispatch Location: All orders are dispatched from Lagos, Nigeria.
-- Order Tracking Link: http://iamxis.com.ng/track (or use the link provided in your order confirmation email).
+- Order Tracking Link: http://iamxis.studio/track (or use the link provided in your order confirmation email).
 - Missing Orders: If your package is still missing after checking your tracking link, contact our support team for courier follow-up.
 - Preferred Delivery: You can also request a preferred delivery window by contacting us directly.
-- **SHIPPING DETAILS PAGE:** https://iamxis.com.ng/shipping/
+- **SHIPPING DETAILS PAGE:** https://iamxis.studio/shipping/
 
 II. PRICING, PAYMENT, AND ORDERING PROCESS DETAILS
 - Currency: All prices listed on our website are in Nigerian Naira (₦).
 - Payment Methods: We currently accept payments via debit/credit card and bank transfer. If you choose bank transfer, the account details will be shared with you immediately after checkout on our site.
 - Order Acceptance: Receiving an order confirmation email means we have received your order and are preparing to process it, but it does not yet constitute order acceptance.
-- **BUNDLES & SAVINGS PAGE:** https://iamxis.com.ng/shop/bundle-save/
+- **BUNDLES & SAVINGS PAGE:** https://iamxis.studio/shop/bundle-save/
 
 
 IV. PERSONALIZATION AND DESIGN FILE REQUIREMENTS
@@ -30,7 +30,7 @@ IV. PERSONALIZATION AND DESIGN FILE REQUIREMENTS
 - Placement: You can request specific design placement (front, center, corner) by adding a note during checkout or uploading a reference image. Clear file naming (e.g., "front tote image.png") is essential.
 - Change Window: Once an order is placed and the design file is confirmed, changes cannot be made after a strict **6-HOUR WINDOW**.
 - Color Guarantee: We cannot guarantee exact color matches due to variations in monitor settings and material absorption rates.
-- **DESIGN UPLOAD GUIDE:** https://iamxis.com.ng/design-upload-guide/
+- **DESIGN UPLOAD GUIDE:** https://iamxis.studio/design-upload-guide/
 
 V. PRODUCT CARE AND DURABILITY
 - Tees Care (100% breathable cotton): Wash inside out in cold water and hang dry. Avoid using bleach and do not iron directly over the custom print.
@@ -44,18 +44,18 @@ VI. DETAILED SIZING INFORMATION
 - Mugs Sizes: 11oz Mug: 3.8\" Height x 3.2\" Diameter / 15oz Mug: 4.7\" Height x 3.3\" Diameter.
 
 VII. GENERAL BRAND AND RESOURCE PAGES
-- **ACCOUNT & LOGIN PAGE:** https://iamxis.com.ng/login/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more.)
-- **CREATING AN XIS ACCOUNT:** https://iamxis.com.ng/register/
+- **ACCOUNT & LOGIN PAGE:** https://iamxis.studio/login/ (Customers can checkout as a guest, but an account allows viewing order history, editing details, and more.)
+- **CREATING AN XIS ACCOUNT:** https://iamxis.studio/register/
 -**LOGIN or PROFILE ICON:** The profile icon is at the top right corner of our site header.
 - **SEARCH FUNCTION:** The search bar or search icon is located at the top right corner of the website.
-- **VIEW CART PAGE:** https://iamxis.com.ng/cart/ (Icon is at the top right corner.)
-- **ABOUT US PAGE:** https://iamxis.com.ng/about/
-- **CUSTOMER REVIEWS PAGE:** https://iamxis.com.ng/reviews/
-- **SUSTAINABILITY PAGE:** https://iamxis.com.ng/sustainability
-- **GENERAL FAQS PAGE:** https://iamxis.com.ng/faqs/
-- **PRE-DESIGNED EDITS / COLLECTION:** https://iamxis.com.ng/collections/pre-designed/
-- **COMING SOON PAGE:** https://iamxis.com.ng/coming-soon/
-- **HUMAN SUPPORT CONTACT:** For urgent issues like payment failures, checkout problems, or account login errors, contact our support team immediately via **contact form** (https://iamxis.com.ng/support), **WhatsApp, call, or SMS** at **+234 708 005 4074**, or **email** at **hello@iamxis.com.ng**.
+- **VIEW CART PAGE:** https://iamxis.studiocart/ (Icon is at the top right corner.)
+- **ABOUT US PAGE:** https://iamxis.studio/about/
+- **CUSTOMER REVIEWS PAGE:** https://iamxis.studio/reviews/
+- **SUSTAINABILITY PAGE:** https://iamxis.studio/sustainability
+- **GENERAL FAQS PAGE:** https://iamxis.studio/faqs/
+- **PRE-DESIGNED EDITS / COLLECTION:** https://iamxis.studio/collections/pre-designed/
+- **COMING SOON PAGE:** https://iamxis.studio/coming-soon/
+- **HUMAN SUPPORT CONTACT:** For urgent issues like payment failures, checkout problems, or account login errors, contact our support team immediately via **contact form** (https://iamxis.studio/support), **WhatsApp, call, or SMS** at **+234 708 005 4074**, or **email** at **hello@iamxis.studio**.
 
 VIII. SIMPLE PRODUCT SUMMARY
 - **Tees & Totes:** Custom apparel and carry solutions made from 100% breathable and durable cotton.
